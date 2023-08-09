@@ -7,8 +7,10 @@ For an in-depth analysis of results and methods please see `Summary document.pdf
 
 ---
 
-(Look at 'em go!)
+(Look at it go!)
 
-![](demo videos/Recurrent model with muscle groups.mov)
+
+https://github.com/ra2yamamoto/autonomous-softbody-locomotion/assets/141769553/feacf4d3-7b52-462f-b64e-7fb7d13c4774
+
 
 For more videos of the robots in action check out the `demo videos` folder.
